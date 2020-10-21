@@ -1,0 +1,25 @@
+[09/15/20 13:19:48.994594 ] [14044] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/15/20 13:19:49.207751 ] [14044] [zbx_sender.cpp:76(ZbxSender::tcp_send)] host: 180.76.115.130, port: 10051
+[09/15/20 13:19:49.242089 ] [14044] [zbx_sender.cpp:123(ZbxSender::tcp_send)] send:hello world cout
+[09/15/20 13:19:49.274537 ] [14044] [zbx_sender.cpp:136(ZbxSender::tcp_send)] receive data:ZBXDZ
+[09/15/20 13:19:49.274621 ] [14044] [zbx_sender.cpp:139(ZbxSender::tcp_send)] zabbix send end
+[09/15/20 13:22:56.307024 ] [12220] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/15/20 13:22:56.524880 ] [12220] [zbx_sender.cpp:76(ZbxSender::tcp_send)] host: 180.76.115.130, port: 10051
+[09/15/20 13:22:56.557466 ] [12220] [zbx_sender.cpp:123(ZbxSender::tcp_send)] send:hello world cout
+[09/15/20 13:22:56.588638 ] [12220] [zbx_sender.cpp:136(ZbxSender::tcp_send)] receive data:ZBXDZ
+[09/15/20 13:22:56.588688 ] [12220] [zbx_sender.cpp:139(ZbxSender::tcp_send)] zabbix send end
+[09/15/20 13:25:04.563890 ] [19136] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/15/20 13:25:05.866148 ] [19136] [zbx_sender.cpp:76(ZbxSender::tcp_send)] host: 180.76.115.130, port: 10051
+[09/15/20 13:25:05.902999 ] [19136] [zbx_sender.cpp:123(ZbxSender::tcp_send)] send:hello world cout
+[09/15/20 13:25:05.935946 ] [19136] [zbx_sender.cpp:136(ZbxSender::tcp_send)] receive data:ZBXDZ
+[09/15/20 13:25:05.936035 ] [19136] [zbx_sender.cpp:139(ZbxSender::tcp_send)] zabbix send end
+[09/15/20 13:26:56.361391 ] [17964] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/15/20 13:26:57.557157 ] [17964] [zbx_sender.cpp:76(ZbxSender::tcp_send)] host: 180.76.115.130, port: 10051
+[09/15/20 13:26:57.590177 ] [17964] [zbx_sender.cpp:123(ZbxSender::tcp_send)] send:hello world cout
+[09/15/20 13:26:57.620318 ] [17964] [zbx_sender.cpp:136(ZbxSender::tcp_send)] receive data:ZBXDZ
+[09/15/20 13:26:57.620372 ] [17964] [zbx_sender.cpp:139(ZbxSender::tcp_send)] zabbix send end
+[09/15/20 13:29:40.778233 ] [19248] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/15/20 13:29:41.002561 ] [19248] [zbx_sender.cpp:76(ZbxSender::tcp_send)] host: 180.76.115.130, port: 10051
+[09/15/20 13:29:41.037376 ] [19248] [zbx_sender.cpp:123(ZbxSender::tcp_send)] send:hello world cout
+[09/15/20 13:29:41.069854 ] [19248] [zbx_sender.cpp:136(ZbxSender::tcp_send)] receive data:ZBXDZ
+[09/15/20 13:29:41.069921 ] [19248] [zbx_sender.cpp:139(ZbxSender::tcp_send)] zabbix send end

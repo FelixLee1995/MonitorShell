@@ -1,0 +1,66 @@
+[09/14/20 10:38:15.980624 ] [13680] [zbx_sender.cpp:46(ZbxSender::run)] zabbixSender started
+[09/14/20 10:38:51.013616 ] [2228] [zbx_sender.cpp:46(ZbxSender::run)] zabbixSender started
+[09/14/20 10:40:31.682261 ] [9592] [zbx_sender.cpp:46(ZbxSender::run)] zabbixSender started
+[09/14/20 10:42:54.198408 ] [11488] [zbx_sender.cpp:46(ZbxSender::run)] zabbixSender started
+[09/14/20 10:50:00.763108 ] [12296] [zbx_sender.cpp:46(ZbxSender::run)] zabbixSender started
+[09/14/20 10:50:46.473370 ] [8872] [zbx_sender.cpp:46(ZbxSender::run)] zabbixSender started
+[09/14/20 11:28:46.778697 ] [4596] [zbx_sender.cpp:46(ZbxSender::run)] zabbixSender started
+[09/14/20 11:29:44.531500 ] [14816] [zbx_sender.cpp:46(ZbxSender::run)] zabbixSender started
+[09/14/20 13:30:00.265373 ] [15244] [zbx_sender.cpp:46(ZbxSender::run)] zabbixSender started
+[09/14/20 13:31:52.802570 ] [9408] [zbx_sender.cpp:46(ZbxSender::run)] zabbixSender started
+[09/14/20 13:40:20.281151 ] [9464] [zbx_sender.cpp:46(ZbxSender::run)] zabbixSender started
+[09/14/20 13:41:50.565588 ] [17296] [zbx_sender.cpp:46(ZbxSender::run)] zabbixSender started
+[09/14/20 13:45:22.461935 ] [16140] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 13:47:18.441629 ] [14720] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 14:00:36.568550 ] [17588] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 14:10:52.318189 ] [18296] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 14:11:49.928061 ] [16784] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 14:23:53.482974 ] [14040] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 15:22:00.115901 ] [18048] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 15:27:10.814332 ] [18404] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 15:31:12.492609 ] [4964] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 15:37:40.096795 ] [11588] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 15:40:07.090937 ] [17144] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 15:41:59.106573 ] [11476] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 15:49:18.398411 ] [17948] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 15:51:22.243875 ] [15508] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 16:06:13.033381 ] [18356] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 16:06:29.684936 ] [16632] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 16:07:49.126882 ] [15540] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 16:10:13.899260 ] [17732] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 16:15:01.981889 ] [11072] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 16:16:54.720191 ] [17248] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 16:25:11.311884 ] [11208] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 16:32:24.094332 ] [12296] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 16:33:29.551278 ] [15520] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 16:41:56.766862 ] [9492] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 16:51:05.962424 ] [12228] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 16:53:21.851570 ] [18084] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 17:11:47.190123 ] [1664] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 17:12:28.893938 ] [15896] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 17:13:41.519684 ] [17116] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 17:15:04.988399 ] [18188] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 17:15:34.813395 ] [15404] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 17:18:29.324048 ] [5204] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 17:19:23.966779 ] [14000] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 17:20:33.192366 ] [2844] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 17:23:20.309384 ] [11700] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 17:23:21.503122 ] [11700] [zbx_sender.cpp:76(ZbxSender::tcp_send)] host: 180.76.115.130, port: 15001
+[09/14/20 17:23:42.543893 ] [11700] [zbx_sender.cpp:82(ZbxSender::tcp_send)] exception: connect: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[09/14/20 17:25:05.963744 ] [3660] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 17:26:07.684397 ] [3660] [zbx_sender.cpp:76(ZbxSender::tcp_send)] host: 180.76.115.130, port: 15001
+[09/14/20 17:27:59.293000 ] [13008] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 17:28:00.476619 ] [13008] [zbx_sender.cpp:76(ZbxSender::tcp_send)] host: 180.76.115.130, port: 10051
+[09/14/20 17:28:00.513236 ] [13008] [zbx_sender.cpp:123(ZbxSender::tcp_send)] send:hello world cout
+[09/14/20 17:28:00.545021 ] [13008] [zbx_sender.cpp:136(ZbxSender::tcp_send)] receive data:ZBXDZ
+[09/14/20 17:28:00.545112 ] [13008] [zbx_sender.cpp:139(ZbxSender::tcp_send)] zabbix send end
+[09/14/20 17:58:57.280609 ] [10724] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 17:58:58.591859 ] [10724] [zbx_sender.cpp:76(ZbxSender::tcp_send)] host: 180.76.115.130, port: 10051
+[09/14/20 17:58:58.626211 ] [10724] [zbx_sender.cpp:123(ZbxSender::tcp_send)] send:hello world cout
+[09/14/20 17:58:58.656828 ] [10724] [zbx_sender.cpp:136(ZbxSender::tcp_send)] receive data:ZBXDZ
+[09/14/20 17:58:58.656883 ] [10724] [zbx_sender.cpp:139(ZbxSender::tcp_send)] zabbix send end
+[09/14/20 17:59:15.190673 ] [16212] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[09/14/20 17:59:16.380316 ] [16212] [zbx_sender.cpp:76(ZbxSender::tcp_send)] host: 180.76.115.130, port: 10051
+[09/14/20 17:59:16.418586 ] [16212] [zbx_sender.cpp:123(ZbxSender::tcp_send)] send:hello world cout
+[09/14/20 17:59:16.453374 ] [16212] [zbx_sender.cpp:136(ZbxSender::tcp_send)] receive data:ZBXDZ
+[09/14/20 17:59:16.453498 ] [16212] [zbx_sender.cpp:139(ZbxSender::tcp_send)] zabbix send end

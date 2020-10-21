@@ -1,0 +1,11 @@
+{
+    "monitor_exe": "learning.exe",
+    "monitor_out": "monitor/stdout.log",
+    "monitor_out_flag": 1,
+    "monitor_lineNum": 0,
+    "host": "host1",
+    "key": "market_L1_sgx",
+    "zabbix_server": "180.76.115.130",
+    "zabbix_port": 15001,
+    "zabbix_submit_rule": "hello"
+}

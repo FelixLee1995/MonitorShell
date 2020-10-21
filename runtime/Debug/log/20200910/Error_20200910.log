@@ -1,0 +1,28 @@
+20200910 10:14:22:026 [1] - System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 AuthCommon.ClientWaiter..ctor(String hostIP, String hostPort, ZDLogger networkLogger, ZDLogger errorLogger, Int32 socketCnt, Int32 pinBufferSize)
+   在 ZDMarketDispatcher.MarketWaiter..ctor(String hostIP, String hostPort, ZDLogger errorLogger, ZDLogger clientInLogger) 位置 G:\dev\marktelevel\level2\ZDMarketDispatcherV4\Dispatcher.cs:行号 2102
+   在 ZDMarketDispatcher.Bootstrap.init(ZDLogger errorLogger, ZDLogger clientInLogger) 位置 G:\dev\marktelevel\level2\ZDMarketDispatcherV4\Bootstrap.cs:行号 181
+20200910 10:14:22:350 [1] - System.InvalidOperationException: 序列不包含任何匹配元素
+   在 System.Linq.Enumerable.First[TSource](IEnumerable`1 source, Func`2 predicate)
+   在 History.Lib.ProfileService.SearchDSTData(String productID, Int32 year)
+   在 History.Lib.ProfileService.GetDSTChar(String productID, DateTime marketDate)
+   在 History.Lib.ProfileService.<>c__DisplayClass64_0.<GetTCommoditySummerStrings>b__0(KeyValuePair`2 productProfiles)
+   在 System.Collections.Generic.List`1.ForEach(Action`1 action)
+   在 History.Lib.ProfileService.GetTCommoditySummerStrings(Boolean isMobile)
+   在 ZDMarketDispatcher.TradeDateGenerator.setup(Dispatcher dispatcher, DayOfWeek dayOfWeek, String mondaySpecailProducts) 位置 G:\dev\marktelevel\level2\ZDMarketDispatcherV4\TradeDateGenerator.cs:行号 113
+20200910 10:18:21:470 [1] - System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 AuthCommon.ClientWaiter..ctor(String hostIP, String hostPort, ZDLogger networkLogger, ZDLogger errorLogger, Int32 socketCnt, Int32 pinBufferSize)
+   在 ZDMarketDispatcher.MarketWaiter..ctor(String hostIP, String hostPort, ZDLogger errorLogger, ZDLogger clientInLogger) 位置 G:\dev\marktelevel\level2\ZDMarketDispatcherV4\Dispatcher.cs:行号 2102
+   在 ZDMarketDispatcher.Bootstrap.init(ZDLogger errorLogger, ZDLogger clientInLogger) 位置 G:\dev\marktelevel\level2\ZDMarketDispatcherV4\Bootstrap.cs:行号 181
+20200910 10:18:21:643 [1] - System.InvalidOperationException: 序列不包含任何匹配元素
+   在 System.Linq.Enumerable.First[TSource](IEnumerable`1 source, Func`2 predicate)
+   在 History.Lib.ProfileService.SearchDSTData(String productID, Int32 year)
+   在 History.Lib.ProfileService.GetDSTChar(String productID, DateTime marketDate)
+   在 History.Lib.ProfileService.<>c__DisplayClass64_0.<GetTCommoditySummerStrings>b__0(KeyValuePair`2 productProfiles)
+   在 System.Collections.Generic.List`1.ForEach(Action`1 action)
+   在 History.Lib.ProfileService.GetTCommoditySummerStrings(Boolean isMobile)
+   在 ZDMarketDispatcher.TradeDateGenerator.setup(Dispatcher dispatcher, DayOfWeek dayOfWeek, String mondaySpecailProducts) 位置 G:\dev\marktelevel\level2\ZDMarketDispatcherV4\TradeDateGenerator.cs:行号 113

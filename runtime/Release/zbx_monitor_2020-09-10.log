@@ -1,0 +1,74 @@
+[2020-09-10 15:03:32.250] [daily_logger] [info] zabbixSender started
+[2020-09-10 15:03:32.255] [daily_logger] [warning] 提供了一个无效的参数。: datadetail:test
+[2020-09-10 15:06:30.678] [daily_logger] [info] zabbixSender exit
+[2020-09-10 15:08:48.649] [daily_logger] [info] zabbixSender started
+[2020-09-10 15:08:48.650] [daily_logger] [warning] 提供了一个无效的参数。: datadetail:test
+[15:17:34 +08:00] [thread 688] [] zabbixSender started
+[15:17:34 +08:00] [thread 688] [] 提供了一个无效的参数。: datadetail:test
+[15:21:20 +08:00] [thread 16076] [E:\workspace\CMakeProjectTpl\src\zbx_sender.cpp:49] zabbixSender started
+[15:21:20 +08:00] [thread 16076] [E:\workspace\CMakeProjectTpl\src\zbx_sender.cpp:81] 提供了一个无效的参数。: datadetail:test
+[15:23:05 +08:00] [thread 8672] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[15:23:05 +08:00] [thread 8672] [zbx_sender.cpp:81(ZbxSender::tcp_send)] 提供了一个无效的参数。: datadetail:test
+[15:26:35 +08:00] [thread 10632] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[15:26:35 +08:00] [thread 10632] [zbx_sender.cpp:81(ZbxSender::tcp_send)] exception: 提供了一个无效的参数。
+[15:27:15 +08:00] [thread 16028] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[15:27:15 +08:00] [thread 16028] [zbx_sender.cpp:81(ZbxSender::tcp_send)] exception: 提供了一个无效的参数。
+[15:31:05 +08:00] [thread 15308] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[15:31:05 +08:00] [thread 15308] [zbx_sender.cpp:76(ZbxSender::tcp_send)] hostL: host1, port: 1880
+[15:31:05 +08:00] [thread 15308] [zbx_sender.cpp:82(ZbxSender::tcp_send)] exception: 提供了一个无效的参数。
+[15:33:03 +08:00] [thread 6168] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[15:33:03 +08:00] [thread 6168] [zbx_sender.cpp:123(ZbxSender::tcp_send)] send:test
+[15:33:03 +08:00] [thread 6168] [zbx_sender.cpp:136(ZbxSender::tcp_send)] receive data:HTTP/1.1 400 Bad Request
+Server: nginx
+Date: Thu, 10 Sep 2020 07:33:03 GMT
+Content-Type: text/html
+Content-Length: 150
+Connection: close
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[15:33:03 +08:00] [thread 6168] [zbx_sender.cpp:139(ZbxSender::tcp_send)] zabbix send end
+[15:39:15 +08:00] [thread 10064] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[15:39:15 +08:00] [thread 10064] [zbx_sender.cpp:76(ZbxSender::tcp_send)] hostL: host1, port: 1880
+[15:39:15 +08:00] [thread 10064] [zbx_sender.cpp:124(ZbxSender::tcp_send)] send:test
+[15:39:15 +08:00] [thread 10064] [zbx_sender.cpp:137(ZbxSender::tcp_send)] receive data:HTTP/1.1 400 Bad Request
+Server: nginx
+Date: Thu, 10 Sep 2020 07:39:15 GMT
+Content-Type: text/html
+Content-Length: 150
+Connection: close
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[15:39:15 +08:00] [thread 10064] [zbx_sender.cpp:140(ZbxSender::tcp_send)] zabbix send end
+[15:41:50 +08:00] [thread 10168] [zbx_sender.cpp:49(ZbxSender::run)] zabbixSender started
+[15:41:50 +08:00] [thread 10168] [zbx_sender.cpp:76(ZbxSender::tcp_send)] hostL: host1, port: 1880
+[15:41:50 +08:00] [thread 10168] [zbx_sender.cpp:124(ZbxSender::tcp_send)] send:test
+[15:41:51 +08:00] [thread 10168] [zbx_sender.cpp:137(ZbxSender::tcp_send)] receive data:HTTP/1.1 400 Bad Request
+Server: nginx
+Date: Thu, 10 Sep 2020 07:41:51 GMT
+Content-Type: text/html
+Content-Length: 150
+Connection: close
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[15:41:51 +08:00] [thread 10168] [zbx_sender.cpp:140(ZbxSender::tcp_send)] zabbix send end
